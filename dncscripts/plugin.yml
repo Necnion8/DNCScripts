@@ -1,0 +1,8 @@
+main: dncscripts.ScriptsPlugin
+name: Scripts
+version: "1.0.0/241125"
+dncore: 6.0.0
+description: "コマンドからスクリプトを実行します"
+
+authors:
+  - Necnion8
